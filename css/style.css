@@ -1,0 +1,62 @@
+body {
+	font-family: 'Marvel',sans-serif;
+	font-size: 20px;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 30px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.nav li {
+  display: inline;
+}
+
+.jumbotron {
+  background-image: url(http://www.hdwallpapers.in/walls/the_avengers_movie_2012-HD.jpg);
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 58px;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.jumplist a {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.jumplist ul {
+	text-align: center;
+}
+
+.jumplist a:hover {
+	color: #000000;
+	font-size: 25px;
+}
+
+.jumplist a:active {
+	color: #336600;
+	font-size: 50px;
+}
+
+.container {
+  background-image: url(http://goldenfest.org/site/wp-content/themes/clifden/assets/img/black/gradient-radial-bottom.png);
+  background-repeat: no-repeat;
+  background-size: 430%;
+}
